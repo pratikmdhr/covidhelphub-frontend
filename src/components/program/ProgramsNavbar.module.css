@@ -6,7 +6,7 @@
 
 .programsNavbar a {
   height: 3.5rem;
-  max-width: 10rem;
+  /* max-width: 10rem; */
   flex: 1;
   display: flex;
   align-items: center;
